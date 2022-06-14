@@ -2,8 +2,8 @@
 
 # An archive for skins I use
 
-# [- RyanstolefromJeff](https://mega.nz/file/BLYVSTbA#BP4JJA1FBLVlIJkMlTS3m21jukkfWOkxmvTVdSezxB4)
-![](https://osu.ppy.sh/ss/17838002/4775)
+# [MonkoKamui [spif edit]](https://www.mediafire.com/file/0qj1yvrptz6io1p/MonkoKamui_%255Bspif_edit%255D.osk/file)
+![](https://osu.ppy.sh/ss/17893135/8a11)
 
 
 
