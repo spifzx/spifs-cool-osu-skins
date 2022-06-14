@@ -1,6 +1,6 @@
-# osu! skins used by spif 😱
+ osu! skins used by spif 😱
 
-# An archive for skins I use
+ An archive for skins I use
 
 # [HP Bar](https://www.mediafire.com/folder/lwu23i2r3lhny/hp+bar)
 ![](https://i.imgur.com/AawdAgn.png)
