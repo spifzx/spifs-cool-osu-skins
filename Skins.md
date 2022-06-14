@@ -2,6 +2,10 @@
 
 # An archive for skins I use
 
+# [HP Bar](https://www.mediafire.com/folder/lwu23i2r3lhny/hp+bar)
+![](https://i.imgur.com/AawdAgn.png)
+
+
 # [MonkoKamui [spif edit]](https://www.mediafire.com/file/0qj1yvrptz6io1p/MonkoKamui_%255Bspif_edit%255D.osk/file)
 ![](https://osu.ppy.sh/ss/17893135/8a11)
 
