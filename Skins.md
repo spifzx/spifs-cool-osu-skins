@@ -9,5 +9,5 @@
 ![](https://osu.ppy.sh/ss/17893142/7db4)
 
 # [elohere with thocky hitsounds](https://www.mediafire.com/file/8nlyid3k4zze1qf/spif_elohere.osk/file)
-![](![image](https://user-images.githubusercontent.com/107449411/173481615-d9bdf324-6aa9-45ec-a0db-cc85af0429b6.png)
+![](https://i.imgur.com/0370OeB.jpeg)
 )
